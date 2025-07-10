@@ -2,7 +2,8 @@
 
 **FlavorFusion Bistro** is a modern, animated, and responsive restaurant website built using **React.js** and **Framer Motion**. It’s designed to showcase a restaurant's brand, menu, gallery, and contact features with elegant styling and interactivity.
 
-![FlavorFusion Screenshot](./public/images/screenshot.jpg) <!-- Replace with your actual screenshot path -->
+![FlavorFusion Screenshot](<img width="1873" height="917" alt="image" src="https://github.com/user-attachments/assets/8b41e053-e4eb-45a7-b445-1f741a1ea854" />
+) <!-- Replace with your actual screenshot path -->
 
 ---
 
