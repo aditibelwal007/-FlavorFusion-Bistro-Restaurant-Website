@@ -29,8 +29,7 @@
 ## 🚀 Demo
 
 You can try the live demo of the website here:  
-👉 [Live Demo](https://your-demo-link.com)
-
+ https://aditibelwal007.github.io/-FlavorFusion-Bistro-Restaurant-Website/
 ---
 
 ## 💻 Installation
