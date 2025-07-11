@@ -33,7 +33,7 @@
 ## 🚀 Demo
 
 You can try the live demo of the website here:  
-👉 [Live Demo](https://aditibelwal007.github.io/-FlavorFusion-Bistro-Restaurant-Website/)
+👉 [Live Demo](https://aditibelwal007.github.io/FlavorFusion-Bistro-Restaurant-Website/)
 
 ---
 
